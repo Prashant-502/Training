@@ -735,11 +735,6 @@ Header Style
 Banner Style
 --------------------------------------------- 
 */
-/* .main-banner{
-  max-height: 894px;
-  min-height: 894px;
-  overflow: hidden;
-} */
 
 .main-banner .item {
   background-position: center center;
@@ -1730,10 +1725,6 @@ body {
   .header-area .main-nav .nav li:last-child {
     display: none;
   }
-  /* .main-banner{
-    max-height: 1038px;
-    min-height: unset;
-  } */
 }
 
 @media (max-width: 992px) {
