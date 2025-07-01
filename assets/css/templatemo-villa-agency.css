@@ -737,6 +737,7 @@ Banner Style
 */
 .main-banner{
   max-height: 894px;
+  min-height: 894px;
   overflow: hidden;
 }
 
@@ -1731,6 +1732,7 @@ body {
   }
   .main-banner{
     max-height: 1038px;
+    min-height: unset;
   }
 }
 
